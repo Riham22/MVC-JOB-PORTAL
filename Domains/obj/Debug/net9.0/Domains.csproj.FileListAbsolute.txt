@@ -1,0 +1,15 @@
+F:\ITI\DotNet\MVC\Job\Domains\bin\Debug\net9.0\Domains.deps.json
+F:\ITI\DotNet\MVC\Job\Domains\bin\Debug\net9.0\Domains.runtimeconfig.json
+F:\ITI\DotNet\MVC\Job\Domains\bin\Debug\net9.0\Domains.dll
+F:\ITI\DotNet\MVC\Job\Domains\bin\Debug\net9.0\Domains.pdb
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.csproj.AssemblyReference.cache
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.AssemblyInfoInputs.cache
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.AssemblyInfo.cs
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.csproj.CoreCompileInputs.cache
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.sourcelink.json
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.dll
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\refint\Domains.dll
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.pdb
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\Domains.genruntimeconfig.cache
+F:\ITI\DotNet\MVC\Job\Domains\obj\Debug\net9.0\ref\Domains.dll
